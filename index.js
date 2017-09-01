@@ -1,4 +1,4 @@
-import rippleComponent from 'ripple.vue'
+import rippleComponent from './ripple.vue'
 
 const VueRipple = {
     install: function (Vue) {
