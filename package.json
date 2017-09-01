@@ -1,0 +1,24 @@
+{
+  "name": "vue-useripple",
+  "version": "1.0.0",
+  "description": "vue use ripple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "ripple",
+    "material"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LDQ-first/vue-useripple.git"
+  },
+  "author": "LDQ-first",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LDQ-first/vue-useripple/issues"
+  },
+  "homepage": "https://github.com/LDQ-first/vue-useripple#readme"
+}
