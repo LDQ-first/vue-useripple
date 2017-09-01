@@ -1,6 +1,6 @@
 {
   "name": "vue-useripple",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "vue use ripple",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,8 @@
   "keywords": [
     "vue",
     "ripple",
-    "material"
+    "material",
+    "button"
   ],
   "repository": {
     "type": "git",
