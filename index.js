@@ -1,4 +1,4 @@
-const rippleComponent = require('./ripple.vue')
+import rippleComponent from 'ripple.vue'
 
 const VueRipple = {
     install: function (Vue) {
@@ -6,3 +6,4 @@ const VueRipple = {
     } 
 }  
 
+export default VueRipple
