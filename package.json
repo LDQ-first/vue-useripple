@@ -11,7 +11,8 @@
     "vue",
     "ripple",
     "material",
-    "button"
+    "button",
+    "plugin"
   ],
   "repository": {
     "type": "git",
