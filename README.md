@@ -1,8 +1,8 @@
 # vue-useripple
 
-[Demo](https://ldq-first.github.io/vue-ripple-compoment/dist/#/)
+[Demo](https://ldq-first.github.io/vue-ripple-plugin/dist/#/)
 
-[more detail of use](https://github.com/LDQ-first/vue-ripple-compoment/tree/master/src/views/show.vue)
+[more detail of use](https://github.com/LDQ-first/vue-ripple-plugin/tree/master/src/views/show.vue)
 
 ## Use
 ``` javascript
