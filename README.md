@@ -1,5 +1,7 @@
 # vue-useripple
 
+> A ripple plugin of Vue.js
+
 [Demo](https://ldq-first.github.io/vue-ripple-plugin/dist/#/)
 
 [more detail of use](https://github.com/LDQ-first/vue-ripple-plugin/tree/master/src/views/show.vue)
