@@ -1,6 +1,6 @@
 # vue-useripple
 
-[预览](https://ldq-first.github.io/vue-ripple-compoment/dist/#/)
+[Demo](https://ldq-first.github.io/vue-ripple-compoment/dist/#/)
 
 [more detail of use](https://github.com/LDQ-first/vue-ripple-compoment/tree/master/src/views/show.vue)
 
